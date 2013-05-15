@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SimpleValidation</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Matthew Schrager</authors>
+    <owners>Matthew Schrager</owners>
+    <description>$description$</description>
+    <copyright>Copyright Matthew Schrager 2013</copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
